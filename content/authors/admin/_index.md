@@ -1,5 +1,5 @@
 ---
-title: Guangxuan Xu 徐广玄
+title: "Guangxuan Xu "
 role: Fanatic of Robotics
 bio: " My research interests include robotics, computer graphics (simulation)
   and brain-machine interface."
