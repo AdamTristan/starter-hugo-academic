@@ -29,9 +29,9 @@ organizations:
 education:
   courses:
     - course: Visiting Student
-      institution: Wesklake University
+      institution: Westlake University
       year: 2023
-    - course: "BEng in "
+    - course: BEng in Measure Control Technology and Instruments
       institution: Sichuan University
       year: ""
 superuser: true
